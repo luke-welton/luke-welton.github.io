@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#sidebar {
+    flex-grow: 1;
+    background-color: "#f00";
+}
+
+#main_content {
+    flex-grow: 1;
+    background-color: "#00f";
+    color: "#fff";
+    padding: 20vh 20vw;
+    font-size: 10rem;
+}
