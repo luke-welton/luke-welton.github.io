@@ -5,13 +5,13 @@ body {
 
 #sidebar {
     flex-grow: 1;
-    background-color: "#f00";
+    background-color: #f00;
 }
 
 #main_content {
-    flex-grow: 1;
-    background-color: "#00f";
-    color: "#fff";
-    padding: 20vh 20vw;
-    font-size: 10rem;
+    flex-grow: 10;
+    background-color: #00f;
+    color: #fff;
+    padding: 1em;
+    font-size: 1.5rem;
 }
